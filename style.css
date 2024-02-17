@@ -1,0 +1,91 @@
+body{
+  background-color: rgb(80, 69, 93);
+  color: rgb(152, 152, 152);
+}
+.container{
+  width: 80%;
+  background-color: rgb(55, 1, 99);
+  margin: auto;
+  border-radius: 20px;
+}
+.head{
+  font-family:Protest Riot;
+  text-align: center;
+  font-weight: 80;
+}
+#title{
+  font: 90px;
+  font-weight: 80;
+ 
+}
+#sub{
+  color: rgb(221, 103, 12);
+  font-size: 32px;
+  font-weight: 100;
+}
+#jurry{
+  margin-top: 0%;
+  text-align: center;
+}
+#info {
+  width: 80%;
+  text-align: justify;
+  margin: 20px auto;
+  font-size: 24px;
+}
+#img{
+  width: 60%;
+  border-radius: 40px;
+  margin-left: 20%;
+}
+#under{
+  text-align: center;
+  margin: 10px auto;
+  font-size: 24px;
+  width: 80%;
+}
+.lists{
+  width: 80%;
+  padding: auto;
+  margin: 15px 40%;
+  text-align: justify
+}
+dd{
+  font-size: 16px;
+  line-height: 30px;
+  margin: auto 30%;
+}
+dt{
+  width: 50%;
+  font-size: 20px;
+  line-height: 35px;
+
+}
+#cast{margin-left: ;
+  text-align: center;
+}
+li {
+  font-size: 24px;
+  line-height: 50px;
+}
+#footer{
+  margin-left: 32%;
+  border: 1px solid orange;  
+  border-radius: 10px;
+  padding: 10px 0px ;
+  width: 30%;
+  text-align: center;
+ 
+}
+#link {
+  text-decoration: none;
+  border: 2px solid orange;
+  padding: 4px;
+  border-radius: 3px;
+  background-color: rgb(134, 127, 127);
+  color: white;
+}
+#link:hover{
+    background-color: rgb(55, 1, 99);
+    color:orange;
+}
